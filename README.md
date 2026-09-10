@@ -11,4 +11,4 @@ I'm learning DevOps from the fundamentals and documenting my progress here.
 
 ## Progress
 
-Day 1: Getting started with Linux and GitHub
+[Day 1: Getting started with Linux and GitHub](linux/day-01.md)
