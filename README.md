@@ -16,3 +16,5 @@ I'm learning DevOps from the fundamentals and documenting my progress here.
 [Day 2: Linux Filesystem](linux/day-02.md)
 
 [Day 3: Linux Distributions](linux/day-03.md)
+
+[Day 4: Linux Filesystem Structure](linux/day-04.md)
