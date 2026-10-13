@@ -20,3 +20,5 @@ I'm learning DevOps from the fundamentals and documenting my progress here.
 [Day 4: Linux Filesystem Structure](linux/day-04.md)
 
 [Day 5: Navigating Directories](linux/day-05.md)
+
+[Day 6: Working with Files & Directories](linux/day-06.md)
