@@ -24,3 +24,5 @@ I'm learning DevOps from the fundamentals and documenting my progress here.
 [Day 6: Working with Files & Directories](linux/day-06.md)
 
 [Day 7: Linux Basics Review](linux/day-07.md)
+
+[Day 8: User and Group Management](linux/day-08.md)
